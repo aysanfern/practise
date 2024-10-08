@@ -1,6 +1,6 @@
 # practise
 
-##introduction
+## introduction
 
 
-###Heading 3
+### Heading 3
